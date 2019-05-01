@@ -1,0 +1,11 @@
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\bin\Debug\WorldBlockReplace.exe.config
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\bin\Debug\WorldBlockReplace.exe
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\bin\Debug\WorldBlockReplace.pdb
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\bin\Debug\OrangeNBT.Data.dll
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\bin\Debug\OrangeNBT.dll
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\bin\Debug\OrangeNBT.World.dll
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\obj\Debug\WorldBlockReplace.csprojAssemblyReference.cache
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\obj\Debug\WorldBlockReplace.csproj.CoreCompileInputs.cache
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\obj\Debug\WorldBlockReplace.csproj.CopyComplete
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\obj\Debug\WorldBlockReplace.exe
+C:\Users\tatuharu\Documents\Visual Studio 2019\Projects\WorldBlockReplace\WorldBlockReplace\obj\Debug\WorldBlockReplace.pdb
